@@ -7,7 +7,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #3ffe00;
+  --color-primary: #25d366;
   --color-secondary: #52565e;
 }
 
@@ -308,8 +308,9 @@ animation-iteration-count: infinite;
 }
 
 .header .logo img {
-  max-height: 170px;
-  margin-right: 6px;
+  max-height: 120px;
+  /* margin-top: 3px; */
+  /* margin-right: 6px; */
 }
 
 .header .logo h1 {
